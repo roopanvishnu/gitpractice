@@ -70,10 +70,6 @@ body {
     margin-top: 40px;
     color: #666;
 }
-
-/* Media Queries for Responsiveness */
-
-/* Tablets (Max width 1024px) */
 @media (max-width: 1024px) {
     .cards {
         justify-content: center;
@@ -84,8 +80,6 @@ body {
         width: 280px;
     }
 }
-
-/* Mobile Devices (Max width 768px) */
 @media (max-width: 768px) {
     .cards {
         flex-direction: column;
